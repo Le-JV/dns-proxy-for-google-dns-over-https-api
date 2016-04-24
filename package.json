@@ -1,0 +1,16 @@
+{
+  "name": "googlehttpsdns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.0.0-rc.3",
+    "native-dns": "^0.7.0",
+    "request": "^2.72.0"
+  }
+}
